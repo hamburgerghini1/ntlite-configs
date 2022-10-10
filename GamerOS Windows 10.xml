@@ -28,7 +28,6 @@
 		<c>alljoyn 'AllJoyn Router Service'</c>
 		<c>appid 'Application Identity Service'</c>
 		<c>appv 'Application Virtualization (App-V)'</c>
-		<c>appxsupport32 'Modern App support - 32 bit'</c>
 		<c>asimov 'Telemetry Client'</c>
 		<c>assembly.net '.NET assembly cache'</c>
 		<c>assignedaccess 'Assigned Access'</c>
@@ -484,14 +483,6 @@
 		<c>Microsoft.WindowsFeedbackHub 'FeedbackHub'</c>
 		<c>Microsoft.WindowsMaps 'Maps'</c>
 		<c>Microsoft.WindowsSoundRecorder 'SoundRecorder'</c>
-		<c>Microsoft.WindowsStore 'Windows Store'</c>
-		<c>Microsoft.Xbox.TCUI 'Xbox.TCUI'</c>
-		<c>Microsoft.XboxApp 'Xbox App'</c>
-		<c>Microsoft.XboxGameCallableUI 'XboxGameCallableUI'</c>
-		<c>Microsoft.XboxGameOverlay 'XboxGameOverlay'</c>
-		<c>Microsoft.XboxGamingOverlay 'XboxGamingOverlay'</c>
-		<c>Microsoft.XboxIdentityProvider 'XboxIdentityProvider'</c>
-		<c>Microsoft.XboxSpeechToTextOverlay 'XboxSpeechToTextOverlay'</c>
 		<c>Microsoft.YourPhone 'YourPhone'</c>
 		<c>Microsoft.ZuneMusic 'ZuneMusic'</c>
 		<c>Microsoft.ZuneVideo 'ZuneVideo'</c>
@@ -710,7 +701,6 @@
 			<Feature enabled="no">VSS</Feature>
 			<Feature enabled="no">ActivationKMS</Feature>
 			<Feature enabled="no">Activation</Feature>
-			<Feature enabled="no">WindowsStore</Feature>
 			<Feature enabled="no">WindowsUpdate</Feature>
 			<Feature enabled="no">WLAN</Feature>
 		</ComponentFeatures>
